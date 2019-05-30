@@ -2,8 +2,8 @@
 
 // connection parameters
 $db_host = 'localhost';
-$username = 'root';
-$password = '';
+$username = 'dealer';
+$password = 'password';
 $database = 'web_php_cars';
 $port = '3308';
 
